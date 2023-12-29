@@ -11,6 +11,8 @@ Once the Admin is validated he/she can see the list of all the students and even
 <p align="center"> <img src="https://github.com/Sunnidhya/AcademiaSystem/blob/a4b70774ac54f701969397fcffed832a3917f2da/Screenshot%202023-12-29%20180824.png" alt="sroy96" /> </p>
 
 # DB Structue
+The back end implementation is based on the given table structure.
+<p align="center"> <img src="https://github.com/Sunnidhya/AcademiaSystem/blob/775ffb52d59bfd2c25f809876a83fae409df29c9/DB%20Structure.png" /> </p>
 
 
 
