@@ -1,5 +1,8 @@
 # Academia System
-This was part of a project from the Course CS513 ESD of IIIT Bangalore where we had to build an Academics Managment System
+This was part of a project from the Course CS513 ESD of IIIT Bangalore where as part of an Academic Managment System I had to
+Compute Student Specialisation Allow the employee of admin department to login. Then view the specialisations of all students 
+or filtered by various criteria such as domain, specialisation, etc. The student has a specialisation in a particular domain 
+if they have selected courses such that the cumulative sum in a certain specialisation of those courses is greater than 20 credits.
 
 # 1) Login Page
 The Admin has to login using a valid credential, proper exception handling is done to check for Authentication and Authorization.
